@@ -1,6 +1,8 @@
 # Mealkit
+</br>
 solo project
-소프트웨어구성정보
+</br>
+<p>소프트웨어구성정보</p>
 구분 / 제품명 / 버전
 JDK / Oracle JDK / 19.0.2
 WAS / Enbed Tomcat / 10.1.5
